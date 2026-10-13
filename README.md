@@ -8,3 +8,10 @@ DevOps / DevSecOps Engineer — building, automating, and securing cloud-native 
 - 🔐 DevSecOps: Vault · SonarQube · OWASP Top 10 · threat modeling · CTF (SSRF, JWT forgery, DOM-XSS)
 
 📫 [LinkedIn](www.linkedin.com/in/muhammad-sajid-ali-649aba107) · sajidali770@yahoo.com
+
+### 🚀 Projects
+- **k8s-cluster-from-scratch** — Kubernetes built from scratch: Terraform VMs, kubeadm, CNI, etcd backup/restore, upgrades
+- **domjudge-automation** — Single-command deploy/teardown of DOMjudge contest infrastructure (Bash, Docker Compose); served 300–400 teams at ICPC Asia Regionals
+- **devops-autograder** — Automated grading of hands-on infrastructure tasks (Node.js, React, Docker, Bash)
+- **eda-containerization** — Containerized Xilinx Vivado deployed identically across 50 lab machines
+- **[Sarai-e-Ilm](https://www.saraieilm.com)** — Multi-tenant managed LMS platform (Moodle): isolated per-tenant instances, automated subdomain + SSL provisioning, custom domains, daily backups with one-click restore.
