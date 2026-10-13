@@ -11,7 +11,7 @@ DevOps / DevSecOps Engineer — building, automating, and securing cloud-native 
 
 ### 🚀 Projects
 - **k8s-cluster-from-scratch** — Kubernetes built from scratch: Terraform VMs, kubeadm, CNI, etcd backup/restore, upgrades
-- **domjudge-automation** — Single-command deploy/teardown of DOMjudge contest infrastructure (Bash, Docker Compose); served 300–400 teams at ICPC Asia Regionals
+- **[domjudge-automation](https://github.com/m-sajid-ali/domjudge-automated-deployment)** — One-command deploy/stop/start/teardown of DOMjudge server + judgehosts with Docker, optional SSL, and auto-generated credentials. Used for ICPC Asia Regionals (300–400 teams) and a 1,500-student national contest.
 - **devops-autograder** — Automated grading of hands-on infrastructure tasks (Node.js, React, Docker, Bash)
 - **eda-containerization** — Containerized Xilinx Vivado deployed identically across 50 lab machines
 - **[Sarai-e-Ilm](https://www.saraieilm.com)** — Multi-tenant managed LMS platform (Moodle): isolated per-tenant instances, automated subdomain + SSL provisioning, custom domains, daily backups with one-click restore.
