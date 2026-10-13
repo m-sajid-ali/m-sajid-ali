@@ -15,3 +15,7 @@ DevOps / DevSecOps Engineer — building, automating, and securing cloud-native 
 - **devops-autograder** — Automated grading of hands-on infrastructure tasks (Node.js, React, Docker, Bash)
 - **eda-containerization** — Containerized Xilinx Vivado deployed identically across 50 lab machines
 - **[Sarai-e-Ilm](https://www.saraieilm.com)** — Multi-tenant managed LMS platform (Moodle): isolated per-tenant instances, automated subdomain + SSL provisioning, custom domains, daily backups with one-click restore.
+
+### 🛡️ Capture-the-Flag — CISPA Helmholtz Center
+- Solved a web-security challenge by chaining three flaws: a server-side request forgery (SSRF) allowing local file read via the `file://` scheme, sensitive data exposed in a signed-but-unencrypted JWT, and privilege escalation through a forged JWT using the `alg:none` technique.
+- Solved a multi-stage cross-subdomain stored DOM-XSS challenge involving Same-Origin-Policy relaxation and `localStorage` exploitation, documenting the full attack chain from subdomain trust abuse to persistent payload delivery.
