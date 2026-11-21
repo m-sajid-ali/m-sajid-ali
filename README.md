@@ -9,6 +9,10 @@ DevOps / DevSecOps Engineer — building, automating, and securing cloud-native 
 
 📫 [LinkedIn](www.linkedin.com/in/muhammad-sajid-ali-649aba107) · sajidali770@yahoo.com
 
+### 🏭 Production Case Studies
+Real systems I deployed and operated. The code is private, so the architecture, decisions and results are documented instead.
+- **[University Admissions Portal](https://github.com/m-sajid-ali/case-studies/admissions-portal.md)** — Diagnosed and fixed crashes under peak admission load (~20–25k applicants): containerized Django/Gunicorn/PostgreSQL behind Nginx, private database network, performance tuning, and centralized TLS for every app on the server.
+
 ### 🚀 Projects
 - **k8s-cluster-from-scratch** — Kubernetes built from scratch: Terraform VMs, kubeadm, CNI, etcd backup/restore, upgrades
 - **[domjudge-automation](https://github.com/m-sajid-ali/domjudge-automated-deployment)** — One-command deploy/stop/start/teardown of DOMjudge server + judgehosts with Docker, optional SSL, and auto-generated credentials. Used for ICPC Asia Regionals (300–400 teams) and a 1,500-student national contest.
