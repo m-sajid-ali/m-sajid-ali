@@ -11,7 +11,7 @@ DevOps / DevSecOps Engineer — building, automating, and securing cloud-native 
 
 ### 🏭 Production Case Studies
 Real systems I deployed and operated. The code is private, so the architecture, decisions and results are documented instead.
-- **[University Admissions Portal](https://github.com/m-sajid-ali/case-studies/blob/main/admissions-portal.md)** — Diagnosed and fixed crashes under peak admission load (~20–25k applicants): containerized Django/Gunicorn/PostgreSQL behind Nginx, private database network, performance tuning, and centralized TLS for every app on the server.
+- **[University Admissions Portal](https://github.com/m-sajid-ali/case-studies/blob/main/admissions-portal.md)** — Diagnosed and fixed crashes under peak admission load (~8–12k applicants): containerized Django/Gunicorn/PostgreSQL behind Nginx, private database network, performance tuning, and centralized TLS for every app on the server.
 
 ### 🚀 Projects
 - **k8s-cluster-from-scratch** — Kubernetes built from scratch: Terraform VMs, kubeadm, CNI, etcd backup/restore, upgrades
